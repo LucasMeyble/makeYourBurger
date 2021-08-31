@@ -99,6 +99,44 @@
       ],
       "status": "Solicitado",
       "id": 2
+    },
+    {
+      "nome": "lucas",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 3
+    },
+    {
+      "nome": "teste",
+      "carne": "Alcatra",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 4
+    },
+    {
+      "nome": "pedro",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [],
+      "status": "Solicitado",
+      "id": 5
+    },
+    {
+      "nome": "lucas",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 6
     }
   ]
 }
