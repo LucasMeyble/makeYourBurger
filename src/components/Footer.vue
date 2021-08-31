@@ -1,6 +1,6 @@
 <template>
     <div id="footer">
-        <p>Make Your Buger &copy; 2021</p>
+        <p>Make Your Buger &copy;2021</p>
     </div>
 </template>
 
